@@ -23,7 +23,7 @@ body {
   align-content: center;
 }
 
-.flex1{
+.flex1 {
   width: 327px;
   height: 552px;
   margin: 16px;
@@ -32,10 +32,10 @@ body {
   border-radius: 16px;
   padding: 16px;
   gap: 12px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
-.flex2{
+.flex2 {
   width: 327px;
   height: 552px;
   margin: 16px;
@@ -44,10 +44,10 @@ body {
   border-radius: 16px;
   padding: 16px;
   gap: 12px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
-.flex3{
+.flex3 {
   width: 327px;
   height: 552px;
   margin: 16px;
@@ -56,10 +56,10 @@ body {
   border-radius: 16px;
   padding: 16px;
   gap: 12px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
-.flex4{
+.flex4 {
   width: 327px;
   height: 552px;
   margin: 16px;
@@ -68,5 +68,6 @@ body {
   border-radius: 16px;
   padding: 16px;
   gap: 12px;
-  background-color: #ffffff;
+  background-color: #fff;
 }
+
