@@ -22,3 +22,51 @@ body {
   font-size: 30px;
   align-content: center;
 }
+
+.flex1{
+  width: 327px;
+  height: 552px;
+  margin: 16px;
+  top: 114px;
+  left: 24px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 12px;
+  background-color: #ffffff;
+}
+
+.flex2{
+  width: 327px;
+  height: 552px;
+  margin: 16px;
+  top: 114px;
+  left: 24px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 12px;
+  background-color: #ffffff;
+}
+
+.flex3{
+  width: 327px;
+  height: 552px;
+  margin: 16px;
+  top: 114px;
+  left: 24px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 12px;
+  background-color: #ffffff;
+}
+
+.flex4{
+  width: 327px;
+  height: 552px;
+  margin: 16px;
+  top: 114px;
+  left: 24px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 12px;
+  background-color: #ffffff;
+}
