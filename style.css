@@ -35,6 +35,13 @@ body {
   background-color: #fff;
 }
 
+.Tonic {
+  width: 295px;
+  height: 36;
+  font-family: "Poppins", sans-serif;
+  background-color: #172B4D;
+}
+
 .flex2 {
   width: 327px;
   height: 552px;
