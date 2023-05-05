@@ -10,12 +10,15 @@ body {
 }
 
 .grid-container {
- display: grid;
- background-color: #E5E5E5;
- flex-direction: column;
- margin: 10px;
- padding: 20px;
- font-size: 30px;
- align-content: center;
- 
+  display: grid;
+  width: 375px;
+  height: 2500px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e5e5e5;
+  flex-direction: column;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  align-content: center;
 }
