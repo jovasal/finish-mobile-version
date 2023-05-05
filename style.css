@@ -39,7 +39,7 @@ body {
   width: 295px;
   height: 36;
   font-family: "Poppins", sans-serif;
-  background-color: #172B4D;
+  background-color: #172b4d;
 }
 
 .flex2 {
@@ -75,5 +75,5 @@ body {
   border-radius: 16px;
   padding: 16px;
   gap: 12px;
-  background-color: #fff;}
-
+  background-color: #fff;
+}
