@@ -1,11 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 
 body {
-  display: flex;
+  display: grid;
   flex-direction: column;
-  background-color: #e5e5e5;
+  background-color: #e94a4a;
   font-family: "Poppins", sans-serif;
   margin: 0;
   overflow-x: hidden;
+}
 
-  
+.grid-container {
+ display: grid;
+ background-color: #E5E5E5;
+ flex-direction: column;
+ margin: 10px;
+ padding: 20px;
+ font-size: 30px;
+ align-content: center;
+ 
+}
