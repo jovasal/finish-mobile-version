@@ -107,7 +107,7 @@ You can user Linters installed under Pull Request. Actually, it is runin well. P
 
 - GitHub: [@githubhandle](https://github.com/jovasal)
 - Twitter: [@twitterhandle](https://twitter.com/jovasal81)
-- LinkedIn: [LinkedIn]([https://linkedin.com/in/jovasal](https://www.linkedin.com/in/john-alonso-vasquez-salcedo-95749632/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-alonso-vasquez-salcedo-95749632/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
